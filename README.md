@@ -1,4 +1,4 @@
-# taskoopia
+# taskopia
 
 Description: Developed an advanced task management mobile
 application using Flutter.
